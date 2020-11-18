@@ -268,8 +268,5 @@
         {"manufacturerName": "PeanutPremium", "effectivedate": "March 25 2020", "expirationDate": "April 01 2022", "trackingData": "true", "contactDoc": "direct_deal.doc"},
         {"manufacturerName": "PeanutPremium", "effectivedate": "March 25 2020", "expirationDate": "April 01 2022", "trackingData": "true", "contactDoc": "direct_deal.doc"}
        
-],
-  "profile": {
-    "name": "typicode"
-  }
+]
 }
