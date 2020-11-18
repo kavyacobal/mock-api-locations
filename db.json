@@ -254,6 +254,13 @@
   ]
 }
 ],
+  "distributor": [
+        { "productDistributorCategory": "Crazy Lobster", "setOEM": "Set $ Per UOM $3,500", "markup": "Markup% 35%", "margin": "Margin% 65%"},
+        { "productDistributorCategory": "ECO Fruits", "setOEM": " Set $ Per UOM $2,500", "markup": "Markup% 37%", "margin": "Margin% 77%"},
+        { "productDistributorCategory": "Red Hen", "setOEM": "Set $ Per UOM $5,500", "markup": "Markup% 45%", "margin": "Margin% 54%"},
+        { "productDistributorCategory": "Mueller’s", "setOEM": "Set $ Per UOM $1,500", "markup": "Markup% 22%", "margin": "Margin% 99%"},
+        { "productDistributorCategory": "Crazy Lobster", "setOEM": "Set $ Per UOM $3,500", "markup": "Markup% 35%", "margin": "Margin% 65%"},
+],
   "profile": {
     "name": "typicode"
   }
