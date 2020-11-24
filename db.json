@@ -255,11 +255,46 @@
 }
 ],
   "distributor": [
-        { "productDistributorCategory": "Crazy Lobster", "setOEM": "Set $ Per UOM $3,500", "markup": "Markup% 35%", "margin": "Margin% 65%"},
-        { "productDistributorCategory": "ECO Fruits", "setOEM": " Set $ Per UOM $2,500", "markup": "Markup% 37%", "margin": "Margin% 77%"},
-        { "productDistributorCategory": "Red Hen", "setOEM": "Set $ Per UOM $5,500", "markup": "Markup% 45%", "margin": "Margin% 54%"},
-        { "productDistributorCategory": "Mueller’s", "setOEM": "Set $ Per UOM $1,500", "markup": "Markup% 22%", "margin": "Margin% 99%"},
-        { "productDistributorCategory": "Crazy Lobster", "setOEM": "Set $ Per UOM $3,500", "markup": "Markup% 35%", "margin": "Margin% 65%"}
+       {
+    "uniqueIdentifier": "01",
+    "productDistributorCategory": "Crazy Lobster",
+    "setPerOEM": "Set $ Per UOM $3,500",
+    "marketPercentage": "Markup% 35%",
+    "marginPercentage": "Margin% 65%",
+    "privateLabel": "PrivateLabel",
+    "uploadcontract": null,
+    "notes": "Notes"
+  },
+  {
+    "uniqueIdentifier": "02",
+    "productDistributorCategory": "ECO Fruits",
+    "setPerOEM": "Set $ Per UOM $2,500",
+    "marketPercentage": "Markup% 55%",
+    "marginPercentage": "Margin% 35%",
+    "privateLabel": "PrivateLabel",
+    "uploadcontract": null,
+    "notes": "Notes"
+  },
+  {
+    "uniqueIdentifier": "03",
+    "productDistributorCategory": "Red Hen",
+    "setPerOEM": "Set $ Per UOM $1,500",
+    "marketPercentage": "Markup% 75%",
+    "marginPercentage": "Margin% 55%",
+    "privateLabel": "PrivateLabel",
+    "uploadcontract": null,
+    "notes": "Notes"
+  },
+{
+    "uniqueIdentifier": "04",
+    "productDistributorCategory": "Muller",
+    "setPerOEM": "Set $ Per UOM $1,500",
+    "marketPercentage": "Markup% 75%",
+    "marginPercentage": "Margin% 55%",
+    "privateLabel": "PrivateLabel",
+    "uploadcontract": null,
+    "notes": "Notes"
+  }
 ],
  "profile": {
     "name": "typicode"
