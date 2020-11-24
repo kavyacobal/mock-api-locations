@@ -261,7 +261,7 @@
     "setPerOEM": "$3,500",
     "marketPercentage": "35%",
     "marginPercentage": "65%",
-    "privateLabel": "true",
+    "privateLabel": true,
     "uploadcontract": null,
     "notes": "Notes"
   },
@@ -271,7 +271,7 @@
     "setPerOEM": "$2,500",
     "marketPercentage": "55%",
     "marginPercentage": "35%",
-    "privateLabel": "false",
+    "privateLabel": false,
     "uploadcontract": null,
     "notes": "Notes"
   },
@@ -281,7 +281,7 @@
     "setPerOEM": "$1,500",
     "marketPercentage": "75%",
     "marginPercentage": "55%",
-    "privateLabel": "true",
+    "privateLabel": true,
     "uploadcontract": null,
     "notes": "Notes"
   },
@@ -291,7 +291,7 @@
     "setPerOEM": "$1,500",
     "marketPercentage": "75%",
     "marginPercentage": "55%",
-    "privateLabel": "false",
+    "privateLabel": false,
     "uploadcontract": null,
     "notes": "Notes"
   }
