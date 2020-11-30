@@ -258,6 +258,7 @@
        {
     "uniqueIdentifier": "01",
     "productDistributorCategory": "Crazy Lobster",
+    "distributorName": "FoodBuy",
     "setPerOEM": "$3,500",
     "marketPercentage": "35%",
     "marginPercentage": "65%",
@@ -268,6 +269,7 @@
   {
     "uniqueIdentifier": "02",
     "productDistributorCategory": "ECO Fruits",
+    "distributorName": "FoodBuy",
     "setPerOEM": "$2,500",
     "marketPercentage": "55%",
     "marginPercentage": "35%",
@@ -278,6 +280,7 @@
   {
     "uniqueIdentifier": "03",
     "productDistributorCategory": "Red Hen",
+    "distributorName": "FoodBuy",
     "setPerOEM": "$1,500",
     "marketPercentage": "75%",
     "marginPercentage": "55%",
@@ -288,6 +291,7 @@
 {
     "uniqueIdentifier": "04",
     "productDistributorCategory": "Muller",
+    "distributorName": "FoodBuy",
     "setPerOEM": "$1,500",
     "marketPercentage": "75%",
     "marginPercentage": "55%",
