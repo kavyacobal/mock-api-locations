@@ -23,9 +23,8 @@
 		"phone": "624-342-0987",
 		"spendingLimit": 45000,
 		"email": "dperion@bordonfoods.com",
-		"taxRate": 8.25,
-
-	},
+		"taxRate": 8.25
+},
     {
         "uid":"1232334",
 		"supplierName": "Supplier Name1",
