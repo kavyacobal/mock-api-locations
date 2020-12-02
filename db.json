@@ -45,10 +45,10 @@
     "notes": "Notes"
   }
 ],
- "locations": "locations": [
+ "locations":[
 {
 		"uid":"1232333",
-    "supplierName": "Supplier Name1",
+    		"supplierName": "Supplier Name1",
 		"foodType": "Meats & Sausages",
 		"dishType": "Ethnic Dishes",
 		"broadline": "Broadline",
