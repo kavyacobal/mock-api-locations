@@ -183,6 +183,9 @@
     "spensingLimit": "22"
   }
 ],
+ "form":{
+   "formType":"Exhibit A"
+ },
  "profile": {
     "name": "typicode"
   }
