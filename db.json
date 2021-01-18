@@ -147,7 +147,7 @@
 		"taxRate": 8.25
 	}
 ],
- "approver": {
+ "approver": [{
   "locationId": 0,
   "approvers": [
     {
@@ -187,7 +187,7 @@
       "notification": true
     }
   ]
-},
+}],
  "profile": {
     "name": "typicode"
   }
