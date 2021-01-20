@@ -73,7 +73,7 @@
 },
     {
         "uid":"1232334",
-		"supplierName": "Supplier Name1",
+		"supplierName": "Supplier Name2",
 		"foodType": "Meats & Sausages",
 		"dishType": "Ethnic Dishes",
 		"broadline": "Broadline",
@@ -98,7 +98,7 @@
 	},
     {
         "uid":"1232335",
-		"supplierName": "Supplier Name1",
+		"supplierName": "Supplier Name3",
 		"foodType": "Meats & Sausages",
 		"dishType": "Ethnic Dishes",
 		"broadline": "Broadline",
@@ -123,7 +123,7 @@
 	},
     {
         "uid":"1232336",
-		"supplierName": "Supplier Name1",
+		"supplierName": "Supplier Name4",
 		"foodType": "Meats & Sausages",
 		"dishType": "Ethnic Dishes",
 		"broadline": "Broadline",
