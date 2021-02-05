@@ -87,6 +87,48 @@
    "effectiveDate": "2021-02-05T07:22:44.635Z",
    "comments": "string",
    "approvalId": 0
+},
+    {
+  "onboardingLocation": "oblocation 2",
+  "memberLocation": "Kansas City, Kansas OTO Go Live Date 09/15/2020",
+  "status": "Tier 1 Partner",
+  "memberAddress": "Test Address 2",
+  "memberCity": "aaa",
+  "memberCityCodeName": "",
+  "memberPostalCode": 67914,
+  "dcnData": [
+    {
+      "category": "",
+      "dcnNumber": [],
+      "distributorName": ""
+    }
+  ],
+  "distributorName": "",
+  "category": "",
+  "foodType": "",
+  "dishType": "",
+  "broadline": "",
+  "ownershipType": "",
+  "websiteURL": "",
+  "description": "",
+  "locationContact1": "Don",
+  "locationContact2": "Perion",
+  "foNumber": "CUS=-3968",
+  "title": "District Mgr",
+  "phone": "6241224456",
+  "spendingLimit": 123,
+  "email": "test@test.com",
+  "taxRate": 8.25,
+  "isConfirmationRequired": true,
+  "isDeleteConfirmationRequired": true,
+  "apAccount": "111111",
+  "corporateLocation": true,
+  "locationId": 1111,
+  "submitStatus": "Submitted",
+  "hierarchyFlag": "Arizona Region HCWRk testRk test RK test RK test RK test",
+   "effectiveDate": "2021-02-05T07:22:44.635Z",
+   "comments": "string",
+   "approvalId": 0
 }
 ],
  "approver": [{
