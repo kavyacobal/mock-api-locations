@@ -119,7 +119,7 @@
   "spendingLimit": 123,
   "email": "test@test.com",
   "taxRate": 8.25,
-  "isConfirmationRequired": true,
+  "isConfirmationRequired": false,
   "isDeleteConfirmationRequired": false,
   "apAccount": "111111",
   "corporateLocation": true,
