@@ -4,9 +4,9 @@
     "uniqueId_directdealid": "01",
     "productDistributorCategory": "Crazy Lobster",
     "distributorName": "FoodBuy",
-    "setPerOEM": "$3,500",
-    "marketPercentage": "35%",
-    "marginPercentage": "65%",
+    "setPerOEM": 3,500,
+    "marketPercentage": 35,
+    "marginPercentage": 65,
     "privateLabel": true,
     "uploadcontract": null,
     "notes": "Notes"
