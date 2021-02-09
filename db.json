@@ -26,9 +26,9 @@
     "uniqueId_directdealid": "03",
     "productDistributorCategory": "Red Hen",
     "distributorName": "FoodBuy",
-    "setPerOEM": "$1,500",
-    "marketPercentage": "75%",
-    "marginPercentage": "55%",
+    "setPerOEM": "1500",
+    "marketPercentage": "33.33",
+    "marginPercentage": "55.89",
     "privateLabel": true,
     "uploadcontract": null,
     "notes": "Notes"
