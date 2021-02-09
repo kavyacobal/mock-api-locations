@@ -15,9 +15,9 @@
     "uniqueId_directdealid": "02",
     "productDistributorCategory": "ECO Fruits",
     "distributorName": "FoodBuy",
-    "setPerOEM": "$2,500",
-    "marketPercentage": "55%",
-    "marginPercentage": "35%",
+    "setPerOEM": "2500",
+    "marketPercentage": "55",
+    "marginPercentage": "35",
     "privateLabel": false,
     "uploadcontract": null,
     "notes": "Notes"
