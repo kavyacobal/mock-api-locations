@@ -37,9 +37,9 @@
     "uniqueId_directdealid": "04",
     "productDistributorCategory": "Muller",
     "distributorName": "FoodBuy",
-    "setPerOEM": "$1,500",
-    "marketPercentage": "75%",
-    "marginPercentage": "55%",
+    "setPerOEM": "1500",
+    "marketPercentage": "75",
+    "marginPercentage": "55",
     "privateLabel": false,
     "uploadcontract": null,
     "notes": "Notes"
