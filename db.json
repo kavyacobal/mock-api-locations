@@ -131,7 +131,7 @@
    "approvalId": 0
 }
 ],
- "approver": [{
+ "approver": {
   "locationId": "1000011111",
   "approvers": [
     {
@@ -171,7 +171,7 @@
       "notification": true
     }
   ]
-}],
+},
  "profile": {
     "name": "typicode"
   }
