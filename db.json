@@ -2,7 +2,11 @@
   "distributor": [
        {
     "uniqueId_directdealid": "01",
-    "subCategory": "Crazy Lobster",
+    "subCategory": "8fc6de62-62e4-e911-a994-000d3a328d2e",
+     "distributorSubCategory":  {
+    "displayText": "Apparel Purchase",
+    "subCategoryId": "8fc6de62-62e4-e911-a994-000d3a328d2e"
+  },
     "distributorName": "FoodBuy",
     "setPerOEM": 3500,
     "marketPercentage": 35,
