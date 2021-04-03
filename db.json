@@ -124,15 +124,7 @@
     "effectiveDate": "2021-02-23T09:04:50.883Z",
     "comments": "string",
     "approvalId": 0,
-    "dcnData": [
-      {
-        "category": "diry",
-        "dcnNumber": [
-          "123456", "123897"
-        ],
-        "distributorName": "venkareddy"
-      }
-    ]
+    "dcnData": []
   }
 ],
  "approver": {
