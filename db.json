@@ -14,6 +14,7 @@
     "privateLabel": true,
     "isExpired": "836780001",
     "uploadcontract": null,
+         "category":"836780002",
     "notes": "Notes"
   },
   {
@@ -25,6 +26,7 @@
     "marginPercentage": "35",
     "privateLabel": false,
      "isExpired": "836780000",
+    "category":"836780001",
     "uploadcontract": null,
     "notes": "Notes"
   },
