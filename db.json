@@ -133,7 +133,7 @@
   "locationId": "1234556",
   "approvers": [
     {
-        "approverId": "123",
+        "approverId": null,
         "usr_AccountTitle": "Director",
         "primaryFullName": "venka lankapothu",
         "email": "venka@venka.com",
