@@ -57,6 +57,7 @@
 {
     "locationId": "12345",
     "totalRecords": 67,
+    "numberofNewRecordsFromFMP":7,
     "locationName": "Ongole",
     "memberID": "123",
     "address": "bangalore",
@@ -98,7 +99,8 @@
   },
    {
     "locationId": "1234556",
-     "totalRecords": 67,
+    "totalRecords": 67,
+    "numberofNewRecordsFromFMP":7,
     "locationName": "chennaiOne",
     "memberID": "1234",
     "address": "bengalore1",
