@@ -130,7 +130,7 @@
     "effectiveDate": "2021-02-23T09:04:50.883Z",
     "comments": "string",
     "approvalId": 0,
-    "dcnData": []
+    "dcnData": [{"category":"836780002","dcnNumber":"1234","distributorName":"SC Oysters Recalled"},{"category":"836780003","dcnNumber":"123456","distributorName":"Bakery"}]
   }
 ],
  "approver": {
