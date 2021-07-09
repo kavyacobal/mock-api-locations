@@ -91,6 +91,7 @@
     "apAccount": "12",
     "effectiveDate": "2021-02-23T09:04:50.883Z",
     "comments": "string",
+  "status":"active",
     "approvalId": 0,
     "dcnData": [
       {
@@ -139,6 +140,7 @@
     "apAccount": "123",
     "effectiveDate": "2021-02-23T09:04:50.883Z",
     "comments": "string",
+     "status":"active",
     "approvalId": 0,
     "dcnData": [{"category":"836780002","dcnNumber":[],"distributorName":""}]
   },
@@ -179,6 +181,7 @@
     "apAccount": "12",
     "effectiveDate": "2021-02-23T09:04:50.883Z",
     "comments": "string",
+     "status":"active",
     "approvalId": 0,
     "dcnData": [
       {
