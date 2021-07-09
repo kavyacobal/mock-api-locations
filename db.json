@@ -140,7 +140,7 @@
     "apAccount": "123",
     "effectiveDate": "2021-02-23T09:04:50.883Z",
     "comments": "string",
-     "status":"active",
+     "status":null,
     "approvalId": 0,
     "dcnData": [{"category":"836780002","dcnNumber":[],"distributorName":""}]
   },
@@ -174,7 +174,7 @@
     "redAlert": false,
     "generalCommunication": true,
     "isConfirmationRequired": false,
-    "isDeleteConfirmationRequired": true,
+    "isDeleteConfirmationRequired": false,
     "hierarchyFlag": "8a9d7dc6-d42f-eb11-a813-000d3a5c0e3c",
     "submitStatus": "Pending",
     "corporateLocation": true,
