@@ -91,7 +91,7 @@
     "apAccount": "12",
     "effectiveDate": "2021-02-23T09:04:50.883Z",
     "comments": "string",
-  "status":"active",
+  "status":null,
     "approvalId": 0,
     "dcnData": [
       {
