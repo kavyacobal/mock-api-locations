@@ -91,8 +91,8 @@
     "submitStatus": "Pending",
     "corporateLocation": true,
     "apAccount": "12",
-    "effectiveDate": "2021-02-23T09:04:50.883Z",
-    "comments": "string",
+    "effectiveDate": null,
+    "comments": null,
   "status":null,
     "approvalId": 0,
     "dcnData": [
@@ -181,8 +181,8 @@
     "submitStatus": "Pending",
     "corporateLocation": true,
     "apAccount": "12",
-    "effectiveDate": "2021-02-23T09:04:50.883Z",
-    "comments": "string",
+    "effectiveDate": null,
+    "comments": null,
      "status":"active",
     "approvalId": 0,
     "dcnData": [
