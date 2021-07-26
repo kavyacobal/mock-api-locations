@@ -13,6 +13,7 @@
     "marginPercentage": 65,
     "privateLabel": true,
     "isExpired": "836780001",
+         "expirationDate": "2022-11-26",
     "uploadcontract": null,
          "category":"836780002",
     "notes": "Notes"
@@ -38,6 +39,7 @@
     "marketPercentage": "33.33",
     "marginPercentage": "55.89",
     "privateLabel": true,
+    "expirationDate": "2022-01-22",
     "uploadcontract": null,
     "notes": "Notes"
   },
