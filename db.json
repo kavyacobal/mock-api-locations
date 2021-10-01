@@ -16,6 +16,7 @@
          "expirationDate": "2022-11-26",
     "uploadcontract": null,
          "category":"836780002",
+         "directDealsAttachmentLink":"Test",
     "notes": "Notes"
   },
   {
@@ -29,6 +30,7 @@
      "isExpired": "836780000",
     "category":"836780001",
     "uploadcontract": null,
+    "directDealsAttachmentLink":"Test",
     "notes": "Notes"
   },
   {
