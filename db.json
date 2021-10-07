@@ -95,7 +95,7 @@
     "apAccount": "12",
     "effectiveDate": null,
     "comments": null,
-  "status":null,
+  "status":"Location Not Loaded in Supply Chain",
     "approvalId": 0,
     "dcnData": [
       {
