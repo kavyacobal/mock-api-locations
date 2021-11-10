@@ -59,7 +59,7 @@
 ],
  "locations":[
 {
-    "locationId": "12345",
+    "locationId": "8a9d7dc6-d42f-eb11-a813-000d3a5c0e3c",
     "totalRecords": 67,
     "numberofNewRecordsFromFMP":7,
     "locationName": "Ongole",
@@ -108,7 +108,7 @@
     ]
   },
    {
-    "locationId": "1234556",
+    "locationId": "9a9d7dc6-d42f-eb10-a813-000d3a5c0e3e",
     "totalRecords": 67,
     "numberofNewRecordsFromFMP":7,
     "locationName": "chennaiOne",
@@ -149,7 +149,7 @@
     "dcnData": [{"category":"836780002","dcnNumber":[],"distributorName":""}]
   },
    {
-    "locationId": "1234115",
+    "locationId": "5o9d7dc6-d42f-eb11-a813-000d3a8c0e3d",
     "totalRecords": 67,
     "numberofNewRecordsFromFMP":7,
     "locationName": "Ongole",
